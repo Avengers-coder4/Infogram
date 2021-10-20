@@ -1,4 +1,4 @@
-# Instagram clone React
+## Instagram clone React
 
 Instagram Clone created with ReactJs
 
